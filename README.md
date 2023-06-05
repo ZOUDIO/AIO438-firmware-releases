@@ -4,6 +4,7 @@ Public firmware releases for the ZOUDIO AIO438 amplifier:
 <br>Always use the latest firmware available unless you have been instructed otherwise.
 
 <br>Firmware is in binary format (.hex) and can be uploaded to the board using the ZOUDIO configtool (zoudio.com/configtool)
+<br>After connecting to the amp, you can browse for the HEX file using the dropdown menu on the upload button ('upload new firmware').
 <br>Uploading unknown binaries to the board voids your warranty
 
 The AIO438 can be connected to a PC via its onboard USB-C port.
